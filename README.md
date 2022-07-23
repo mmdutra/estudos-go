@@ -1,2 +1,2 @@
-# estudos-go
+# Go
 Estudos com a linguagem Go
